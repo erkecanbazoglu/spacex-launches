@@ -82,9 +82,9 @@ Launch Repository: Turns API result into Launch object and returns to bloc layer
 
 Below you can see the packages used.
 
-http: For API requests
-flutter_bloc: Bloc
-equatable: Bloc Object Equalization
+http: For API requests  
+flutter_bloc: Bloc  
+equatable: Bloc Object Equalization  
 pull_to_refresh: Pull to fresh feature
 
 ## Author
